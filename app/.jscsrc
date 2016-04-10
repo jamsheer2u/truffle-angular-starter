@@ -1,0 +1,9 @@
+{
+  "preset": "airbnb",
+  "disallowQuotedKeysInObjects": null,
+  "validateQuoteMarks": null,
+  "requireTrailingComma": null,
+  "maximumLineLength" : 150,
+  "validateLineBreaks": null,
+  "safeContextKeyword": ["vm", "$ctrl"]
+}

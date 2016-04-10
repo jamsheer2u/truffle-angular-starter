@@ -1,0 +1,14 @@
+dist
+node_modules
+bower_components
+.sass-cache
+temp
+build
+app.config.auto.generated.js
+app.css.map
+app.js.map
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
